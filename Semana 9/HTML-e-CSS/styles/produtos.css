@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+
+
+
+.container p {
+    background-color: #820bf1;
+    height: 500px;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    column-gap: 10px;
+    
+    justify-content: center;
+    align-items: flex-start;
+    align-content: flex-start;
+
+    gap: 20px;
+
+
+}
